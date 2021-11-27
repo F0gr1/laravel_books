@@ -1,0 +1,76 @@
+header{
+    height: 100px;
+    width: 100%;
+    padding: 15px 0;
+    background-color: #337079;
+    color: white;
+}
+
+footer{
+    height: 70px;
+    width: 100%;
+    padding: 15px 0;
+    background-color: #337079;
+}
+
+ul{
+    color: pink;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+
+li{
+    height: 150px;
+    width: 150%;
+}
+
+#create-button{
+    float: right;
+    font-size: 2.5vh;
+}
+
+.navbar-toggler-icon{
+    height: 3.5vh !important;
+    width: 3.5vh !important;
+}
+
+.nav-item{
+    font-size: min(3.25vh, 3vw) !important;
+    margin: 0px 2vw;
+}
+
+#delete-button{
+    font-size: 1.5vw;
+}
+
+#edit-button{
+    font-size: 1.5vw;
+}
+
+.ops-title{
+    font-size: max(3.25vh, 3vw);
+    padding: min(1.5vh, 2vw) 0px;
+    background-color: #c7eed8;
+}
+
+.content-value{
+    font-size: max(2vw, 2.25vh);
+}
+
+.table-content:hover{
+    background-color: #d7d7d7;
+}
+
+th{
+    font-size: min(3.25vh, 3vw);
+}
+
+#navbarSupportedContent{
+    float: right;
+}
+
+i{
+    size: 2rem;
+}

@@ -1,0 +1,32 @@
+p.guide{
+    color: gray;
+    margin-bottom: 0.5rem !important;
+}
+
+p.right{
+    text-align: right;
+}
+
+.form-main{
+    margin-bottom: 3em;
+}
+
+label{
+    font-size: 2em;
+}
+
+span.required{
+    color: red;
+}
+
+textarea.form-control{
+    height: 6em !important;
+}
+
+.prev{
+    float: right ;
+}
+
+.form-group{
+    margin-bottom: 0px !important;
+}

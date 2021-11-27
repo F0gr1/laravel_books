@@ -1,0 +1,13 @@
+span.title{
+    padding-right: 8px;
+    text-align: right;
+}
+
+div.title{
+    margin-top: 15px;
+
+}
+
+div.group{
+    border-bottom: solid 1px #eeeeee;
+}

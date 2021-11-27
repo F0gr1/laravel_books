@@ -1,0 +1,14 @@
+.google{
+    width: 168px;
+    height: 35px;
+    margin-top: 5px;
+    margin-left:60px;
+}
+
+.form-check-label{
+    padding-left: 15px;
+}
+
+#forget{
+    text-align: right;
+}
